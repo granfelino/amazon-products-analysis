@@ -77,6 +77,7 @@
 | Coffee Presses                          | 4.50       | 1065.00          |
 
 * Top 10 rated products where rating > 4.5 and rating count > 10000:
+
 | Product Name                                       | Avg Rating | Avg Rating Count |
 |----------------------------------------------------|------------|-----------------|
 | Swiffer Instant Electric Water Heater Faucet Ta...| 4.8        | 53803           |
