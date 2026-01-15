@@ -18,10 +18,10 @@ It entailed:
     1. Pull raw data
     2. Split into logical tables (info and ratings)
     3. For each table:
-        3.1 Create a staging table
-        3.2 Clean and flag staging table
-        3.3 Create a clean table (with flagged rows)
-        3.4 Create an analytics table without flagged rows
+        1. Create a staging table
+        2. Clean and flag staging table
+        3. Create a clean table (with flagged rows)
+        4. Create an analytics table without flagged rows
             and with correct column types + constraints.
     4. Analysis
 
