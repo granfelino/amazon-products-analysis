@@ -3,6 +3,8 @@
 * Main goal of this analysis to refresh and practice cleaning and validating a raw dataset
     using solely SQL as my tool.
 
+* I first used Excel to get an overview of the data and do some basic pivots/charts.
+
 * The most tedious part of this analysis was cleaning the data which you can see here:
 `sql/03-data-cleaning-*.sql`
 
