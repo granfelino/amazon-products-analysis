@@ -1,5 +1,7 @@
 ## Amazon Products Analysis
 * Data source: [LINK](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+* Main goal of this analysis to refresh and practice cleaning and validating a raw dataset
+    using solely SQL as my tool.
 
 * Main categories:
     - Electronics
