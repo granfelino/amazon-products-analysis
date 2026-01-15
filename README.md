@@ -3,6 +3,31 @@
 * Main goal of this analysis to refresh and practice cleaning and validating a raw dataset
     using solely SQL as my tool.
 
+* The most tedious part of this analysis was cleaning the data which you can see here:
+`sql/03-data-cleaning-*.sql`
+
+It entailed:
+    - trimming whitespace
+    - removing unnecesary characters
+    - transforming fake NULLs into NULLs
+    - flagging duplicates
+    - flagging NULLs
+    - flagging impossible values
+
+* The pipeline was:
+    1. Pull raw data
+    2. Split into logical tables (info and ratings)
+    3. For each table:
+        3.1 Create a staging table
+        3.2 Clean and flag staging table
+        3.3 Create a clean table (with flagged rows)
+        3.4 Create an analytics table without flagged rows
+            and with correct column types + constraints.
+    4. Analysis
+
+-----------------
+## Results
+
 * Main categories:
     - Electronics
     - HomeImprovement
