@@ -6,7 +6,7 @@
 * The most tedious part of this analysis was cleaning the data which you can see here:
 `sql/03-data-cleaning-*.sql`
 
-It entailed:
+* It entailed:
     1. trimming whitespace
     2. removing unnecesary characters
     3. transforming fake NULLs into NULLs
