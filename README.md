@@ -77,12 +77,11 @@
 | Coffee Presses                          | 4.50       | 1065.00          |
 
 * Top 10 rated products where rating > 4.5 and rating count > 10000:
-| Product Name                                                                                                                                                | Avg Rating | Avg Rating Count |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------|
-| Swiffer Instant Electric Water Heater Faucet Tap Home-Kitchen Instantaneous Water Heater Tankless for Tap, LED Electric Head Water Heaters (3000W)          | 4.8        | 53803            |
-| Redgear MP35 Speed-Type Gaming Mousepad (Black/Red)                                                                                                         | 4.6        | 33434            |
-| Spigen EZ Fit Tempered Glass Screen Protector Guard for iPhone 14/13/13 Pro – 2 Pack                                                                        | 4.6        | 26603            |
-| Logitech M331 Silent Plus Wireless Mouse, 2.4GHz USB Nano Receiver, 1000 DPI Optical Tracking, 3 Buttons – Black                                            | 4.6        | 12375            |
-| Logitech G402 Hyperion Fury USB Wired Gaming Mouse, 4,000 DPI, Lightweight, 8 Programmable Buttons – Black                                                  | 4.6        | 10760            |
-| Logitech Pebble M350 Wireless Mouse with Bluetooth or USB, Silent Slim Mouse for Laptop/PC/Mac – Graphite                                                   | 4.6        | 10652            |
-
+| Product Name                                       | Avg Rating | Avg Rating Count |
+|----------------------------------------------------|------------|------------------|
+| Swiffer Instant Electric Water Heater Faucet Ta... | 4.8        | 53803            |
+| Redgear MP35 Speed-Type Gaming Mousepad (Black/... | 4.6        | 33434            |
+| Spigen EZ Fit Tempered Glass Screen Protector G... | 4.6        | 26603            |
+| Logitech M331 Silent Plus Wireless Mouse, 2.4GH... | 4.6        | 12375            |
+| Logitech G402 Hyperion Fury USB Wired Gaming Mo... | 4.6        | 10760            |
+| Logitech Pebble M350 Wireless Mouse with Blueto... | 4.6        | 10652            |
