@@ -7,12 +7,12 @@
 `sql/03-data-cleaning-*.sql`
 
 It entailed:
-    - trimming whitespace
-    - removing unnecesary characters
-    - transforming fake NULLs into NULLs
-    - flagging duplicates
-    - flagging NULLs
-    - flagging impossible values
+    1. trimming whitespace
+    2. removing unnecesary characters
+    3. transforming fake NULLs into NULLs
+    4. flagging duplicates
+    5. flagging NULLs
+    6. flagging impossible values
 
 * The pipeline was:
     1. Pull raw data
